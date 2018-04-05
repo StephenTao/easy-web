@@ -1,5 +1,9 @@
 ## bower使用
 
+Node安装 ：https://nodejs.org/en/download/
+http://www.runoob.com/nodejs/nodejs-install-setup.html
+Bower安装：https://bower.io/
+Apach http://httpd.apache.org/
 初始化
 ```cmd
 bower init
