@@ -3,14 +3,17 @@
 
 ```cmd
 cd easy-web
-npm init
+npm init  // package.json
 ```
 
-## bower使用
+## bower安装
+
 
 初始化
 ```cmd
-bower init
+npm install -g bower
+bower init // bower.json
+bower install // install dependencies
 ```
 
 inatall lib并且把jquery依赖记入到bower.json

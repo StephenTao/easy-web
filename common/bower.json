@@ -1,0 +1,22 @@
+{
+    "name": "easy-web-common",
+    "version": "1.0.0",
+    "dependencies": {
+        "angular": "1.4.5",
+        "angular-animate": "1.4.5",
+        "angular-aria": "1.4.5",
+        "angular-bootstrap": "0.8.0",
+        "angular-i18n": "1.4.5",
+        "angular-ui-router": "0.2.13",
+        "requirejs": "2.1.15",
+        "requirejs-text": "2.0.12",
+        "underscope": "1.8.0",
+    },
+    "devDependencies": {
+        "angular-mockup": "1.4.5^",
+        "angular-touch": "~1.5.7"
+    },
+    "resolutions": {
+        "angular": "1.4.5"
+    }
+}

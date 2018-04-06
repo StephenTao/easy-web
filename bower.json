@@ -1,31 +1,19 @@
 {
-  "name": "require-angular-module",
+  "name": "easy-web",
   "authors": [
-    "Stephen Huang <stephen.t.huang@pwc.com>"
+    "Stephen Huang <stephen_huang_@hotmail.com>"
   ],
   "description": "",
   "main": "",
   "license": "MIT",
   "homepage": "",
   "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
-    "jquery": "^3.2.1",
-    "has": "*",
-    "bootstrap": "^3.3.7",
-    "angular": "1.4.5",
-    "angular-bootstrap": "0.8.0",
-    "angular-ui-router": "0.2.13",
-    "requirejs": "2.1.15",
-    "requirejs-domready": "2.0.1",
-    "requirejs-text": "2.0.12",
-    "scroll-up-bar": "0.3.0",
-    "underscore": "1.8.0"
+    "angular-material": "~1.0.9",
+    "angular-touch": "~1.5.7"
+  },
+  "devDependencied" : {
+    "angular-material": "~1.0.9",
+    "angular-touch": "~1.5.7"
   }
 }
