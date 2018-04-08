@@ -18,7 +18,8 @@ require.config({
 		'underscore': '../../common/js/bower_components/underscore/underscore',
 		'text': '../../common/js/bower_components/requirejs-text/text',
 		'expect': '../../common/js/src/expect',
-		'customerExpect': '../js/src/expect'
+		'customerExpect': '../js/src/expect',
+		'portalConfig': 'portal/config'
 		'app-features': './features.json'
 	},
 
